@@ -1,6 +1,9 @@
 # requirements-workshop
 CS 6704 Workshop
 
+## Product Description
+Top Five is a social media platform for academics/researchers that allows users to post the "Top Five" most relevant research results on a topic.
+
 ## Requirements Elicitation Mechanism
 [Interview Questions](/docs/interview.md)
 
