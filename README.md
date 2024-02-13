@@ -3,6 +3,7 @@ CS 6704 Workshop
 
 ## Requirements Elicitation Mechanism
 [Interview Questions](/docs/interview.md)
+[Interview Results](/docs/interview_results.md)
 
 ## Use Cases
 [Use Case 1](/docs/use_case_post_top_five.md)
