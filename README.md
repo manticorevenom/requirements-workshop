@@ -6,6 +6,7 @@ CS 6704 Workshop
 
 ## Use Cases
 [Use Case 1](/docs/use_case_post_top_five.md)
+
 [Use Case 2](/docs/use_case_post_reply.md)
 
 ## Use Case Diagrams
