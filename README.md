@@ -9,6 +9,8 @@ CS 6704 Workshop
 
 [Use Case 2](/docs/use_case_post_reply.md)
 
+[Use Case 3](/docs/use_case_platform_linking.md)
+
 ## Use Case Diagrams
 
 ## User Stories
