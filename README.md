@@ -1,5 +1,6 @@
 # requirements-workshop
 CS 6704 Workshop
+Group Members: Hunter, Huayu, Sahar, Swetha
 
 ## Product Description
 Top Five is a social media platform for academics/researchers that allows users to post the "Top Five" most relevant research results on a topic.
