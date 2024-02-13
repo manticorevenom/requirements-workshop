@@ -5,6 +5,7 @@ CS 6704 Workshop
 Interview Questions
 
 ## Use Cases
+Link /docs/use_case_1.md
 
 ## Use Case Diagrams
 
