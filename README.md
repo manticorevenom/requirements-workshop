@@ -15,4 +15,10 @@ CS 6704 Workshop
 
 ## Use Case Diagrams
 
+[Use Case Diagram 1](/resources/post.svg)
+
+[Use Case Diagram 2](/resources/reply.svg)
+
+[Use Case Diagram 3](/resources/link.svg)
+
 ## User Stories
