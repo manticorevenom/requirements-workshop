@@ -27,3 +27,5 @@ Top Five is a social media platform for academics/researchers that allows users 
 [Use Case Diagram 3](/resources/linking.svg)
 
 ## User Stories
+
+[User Stories](/docs/user_stories.md)
